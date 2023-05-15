@@ -2,3 +2,4 @@
 
 ## Contributors
 - Etudiant 2
+- Etudiant 1
