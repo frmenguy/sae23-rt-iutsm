@@ -2,3 +2,4 @@
 
 ## Contributors
 - @frmenguy
+- Etudiant 2
